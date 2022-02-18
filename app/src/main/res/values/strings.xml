@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bills</string>
+    <string name="Confirm">Button</string>
+    <string name="current_record">Current record</string>
+    <string name="price">price</string>
+    <string name="last_record">last record</string>
+    <string name="expense">Expense</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174750416124",
+    "project_id": "bills-144d2",
+    "storage_bucket": "bills-144d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174750416124:android:da3df8ed3994e8d144ab79",
+        "android_client_info": {
+          "package_name": "com.example.bills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174750416124-inb9qcigpmu673r7bjk2325c0efsqlk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUELcKjeSsaH_QVJ0A3jwZQabKMslo0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174750416124-inb9qcigpmu673r7bjk2325c0efsqlk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
